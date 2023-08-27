@@ -11,6 +11,7 @@ console.log('Error Handling by try....catch Method');
 
 let a;
 console.log(a);
+console.log(a);
 
 //Q#2
 // create a variable assign a string value to it  then assign again its value to typr number  then again to booleran print the end result
@@ -21,14 +22,14 @@ let ab='AB Rehman'
  ab=true;
 
 console.log(ab);
-q#3 
-let s=5;
-const s=6;
+//q#3 
+//let s=5;
+//const s=6;
 console.log(s);        //you cannot redeclare a variable
 
 //q#4
-let q;
-let q;
+//let q;
+//let q;
 console.log(q);   //cannot be redelared
 
 //q#5
